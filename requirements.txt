@@ -1,0 +1,2 @@
+# No external dependencies required. 
+# All modules used (json, re, os, datetime) are built-in Python standard libraries.
